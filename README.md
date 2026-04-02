@@ -60,7 +60,20 @@ JSP/Servlet · JQuery · MySQL<br>
 
 
 ## 📊 GitHub Stats
+## 🚀 My GitHub Activity
 
+### GitHub Stats
+![NSH517's GitHub stats](https://github-readme-stats.vercel.app/api?username=NSH517&show_icons=true&theme=tokyonight)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NSH517&layout=compact&theme=tokyonight)
+
+### Recent Contributions
+<!-- 최근 의미 있는 커밋/PR만 강조 -->
+- 🛠 Feature: Added login functionality with JWT token
+- ♻️ Refactor: Optimized API response time for /projects endpoint
+- 🐛 Fix: Corrected bug in profile 404 handling
+- 📄 Docs: Added setup instructions and API usage guide
 
 <br>
 
