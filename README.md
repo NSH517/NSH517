@@ -3,6 +3,10 @@
 </div>
 <br>
 
+- Email : nsh517@naver.com
+- Notion : 노션 포트폴리(https://www.notion.so/327655b14f7a800983e5df001c445d4a?source=copy_link) 
+- Phone : 010-2462-6888
+
 ## 🛠 Tech Stack
 
 | 구분 | 기술 |
@@ -65,18 +69,7 @@ JSP/Servlet · JQuery · MySQL<br>
 ### GitHub Stats
 ![NSH517's GitHub stats](https://github-readme-stats.vercel.app/api?username=NSH517&show_icons=true&theme=tokyonight)
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NSH517&layout=compact&theme=tokyonight)
-
-### Recent Contributions
-<!-- 최근 의미 있는 커밋/PR만 강조 -->
-- 🛠 Feature: Added login functionality with JWT token
-- ♻️ Refactor: Optimized API response time for /projects endpoint
-- 🐛 Fix: Corrected bug in profile 404 handling
-- 📄 Docs: Added setup instructions and API usage guide
 
 <br>
 
 ## 📫 Contect
-- Email : nsh517@naver.com
-- Phone : 010-2462-6888
