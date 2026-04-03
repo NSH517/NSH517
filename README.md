@@ -6,11 +6,11 @@
 
 
 <br>
-<div algin="center">
+
 - Email : nsh517@naver.com
 - Notion : [노션 포트폴리오](https://www.notion.so/327655b14f7a800983e5df001c445d4a?source=copy_link) 
 - Phone : 010-2462-6888
-</div>
+
   <br>
   ---
 
