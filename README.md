@@ -64,9 +64,6 @@ JSP/Servlet · JQuery · MySQL<br>
 
 
 ## 📊 GitHub Stats
-## 🚀 My GitHub Activity
-
-### GitHub Stats
 ![NSH517's GitHub stats](https://github-readme-stats.vercel.app/api?username=NSH517&show_icons=true&theme=tokyonight)
 
 
