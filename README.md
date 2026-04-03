@@ -1,7 +1,7 @@
 <div align="center">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=SeungHyeon's Hub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
   
-  <h1>안녕하세요, 나승현입니다</h1>
+
 </div>
 
 
