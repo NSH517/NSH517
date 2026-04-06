@@ -70,9 +70,6 @@ JSP/Servlet · JQuery · MySQL<br>
 - 사용자 정보 수정 기능 및 리뷰 목록 조회 기능 구현
 
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NSH517&layout=compact&cache_seconds=86400)
-
 
 <br>
 
